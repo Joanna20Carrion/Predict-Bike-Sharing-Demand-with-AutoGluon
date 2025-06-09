@@ -1,6 +1,6 @@
 # Report: Forecasting Bike‑Sharing Usage with an AutoGluon Approach
 
-#### Chaitanya Dinkar Chaudhari
+#### Joanna Carrion Perez
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
